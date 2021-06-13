@@ -1,0 +1,23 @@
+@media screen and (max-width: 375px){
+  main{
+    width: 80%;
+    flex-direction: column;
+    margin: auto;
+    top: 250px;
+    bottom: 200px;
+
+  }
+
+  .sedans{
+    border-radius: 10px 10px 0 0;
+  }
+
+  .luxury{
+    border-radius: 0 0 10px 10px;
+  }
+
+  .attribution{
+    position: relative;
+  }
+
+}
