@@ -48,6 +48,7 @@ button:hover{
   background: Transparent;
   padding: 13px;
   color: white;
+  cursor: pointer;
 }
 
 

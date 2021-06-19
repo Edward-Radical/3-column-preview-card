@@ -1,11 +1,16 @@
 @media screen and (max-width: 375px){
+
+  body{
+    margin: 0;
+  }
+  
   main{
     width: 80%;
     flex-direction: column;
     margin: auto;
-    top: 250px;
-    bottom: 200px;
-
+    top: 20%;
+    margin-top: 500px;
+    margin-bottom: 500px;
   }
 
   .sedans{
